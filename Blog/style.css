@@ -1,0 +1,13 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel_main_div{
+    border: 1px solid lightgray;
+}
+.travel_main_div img{
+    width: 100%;
+}
+.travel_main_div p, .travel_main_div h5{
+    margin: 20px;
+}
